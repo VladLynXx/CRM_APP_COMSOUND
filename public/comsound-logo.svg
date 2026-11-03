@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="64" viewBox="0 0 260 64" fill="none">
+  <title>COMSOUND — звукоизоляционные конструкции</title>
+  <g stroke="#F5F8FC" strokeLinecap="round" strokeLinejoin="round">
+    <circle cx="31" cy="32" r="25" strokeWidth="2.3"/>
+    <path d="M25 19.5C17.8 26.7 17.8 37.3 25 44.5" strokeWidth="2.7"/>
+    <path d="M18.7 24.5C14.4 28.5 14.4 35.5 18.7 39.5" strokeWidth="2.7"/>
+    <path d="M31 18.5V45.5" strokeWidth="3"/>
+    <path d="M37 19.5C44.2 26.7 44.2 37.3 37 44.5" strokeWidth="2.7"/>
+    <path d="M43.3 24.5C47.6 28.5 47.6 35.5 43.3 39.5" strokeWidth="2.7"/>
+  </g>
+  <text x="68" y="27" fill="#F5F8FC" fontFamily="Arial, Helvetica, sans-serif" fontSize="19" fontWeight="500" letterSpacing="2.2">COMSOUND</text>
+  <text x="69" y="43" fill="#C8D5E4" fontFamily="Arial, Helvetica, sans-serif" fontSize="8.7" fontWeight="400" letterSpacing=".15">Звукоизоляционные</text>
+  <text x="69" y="54.5" fill="#C8D5E4" fontFamily="Arial, Helvetica, sans-serif" fontSize="8.7" fontWeight="400" letterSpacing=".15">конструкции</text>
+</svg>
